@@ -37,3 +37,43 @@ The project focuses on front-end design, user interaction, and basic backend fun
 1. Download or clone the repository  
 2. Place the files inside a local server directory (like XAMPP htdocs or InfinityFree hosting)  
 3. Open the project in a browser:
+   https://naawebsitenaaestam.infinityfreeapp.com/Cloud.php
+
+
+---
+
+## 🔗 Project Link
+
+https://naawebsitenaaestam.infinityfreeapp.com/Cloud.php
+
+---
+
+##  Presentation Summary
+
+This project demonstrates:
+- Website design and structure  
+- User interaction features  
+- File upload handling  
+- Social media style layout  
+
+---
+
+##  Notes
+
+- This project is developed for educational purposes  
+- Image upload functionality may depend on server configuration  
+- Make sure the upload folder has proper permissions  
+
+---
+
+##  Author
+
+**Venkatesh Kota**  
+Master’s Student – computer and information science   
+University of Arkansas at Little Rock  
+
+---
+
+## 🙌 Acknowledgment
+
+This project was developed as part of coursework and guided by instructor requirements.
